@@ -1,5 +1,5 @@
 <div align="center" class= "main"> 
-  <img src="https://www.facebook.com/100077772603213/posts/532884705980612/?substory_index=2022639144837074&app=fbl" width="300" height="300"/>
+  <img src="https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg" width="300" height="300"/>
   <h1>ᴡᴄᴋʏʏ - ＭＤ</h1>
 
 <a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-ᴡᴄᴋʏʏ-red.svg?style=for-the-badge&logo=github"></a>
